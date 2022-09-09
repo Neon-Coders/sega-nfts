@@ -1,14 +1,10 @@
-# Project Name
+# Sega Nfts
 
-Project Description.
-
-# Beta Version
-
-No beta version deployed.
+Nfts arts collections, deployed on the Solana blockchain
 
 # Live version
 
-This project is yet to be deployed.
+This project is deployed on [Vercel](https://nfts-sega.vercel.app/)
 
 ## Feedback and Bugs
 
@@ -21,19 +17,6 @@ If you would like to contribute to this amazing project, you can create a Pull R
 ## Code of Conduct
 
 Before interacting with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
-
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
