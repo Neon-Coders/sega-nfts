@@ -25,24 +25,25 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/ibrahimraimi/sega-nfts
    ```
 3. Install NPM packages
    ```sh
-   npm install
+   yarn install
    ```
-4. Enter your API in `config.js`
+4. Enter your Solana API in a `.env` in your root directory
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   REACT_APP_CANDY_MACHINE_ID=token
+   REACT_APP_SOLANA_NETWORK=devnet
+   REACT_APP_SOLANA_RPC_HOST=https://api.devnet.solana.com
+   REACT_APP_SPL_TOKEN_TO_MINT_NAME=token mint name
+   REACT_APP_SPL_TOKEN_TO_MINT_DECIMALS=token
    ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+You can use any Solana wallet to mint the token. E.g: **Phantom**, **Slope**, **Solflare**, **Sollent**, **Solong**, **Ledger**, **Safepal**
 
 ## Licensing
 
