@@ -2,6 +2,19 @@
 
 Nfts arts collections, deployed on the Solana blockchain
 
+<div>
+   <img src="./public/assets/1.png"
+</div>
+<div>
+   <img src="./public/assets/2.png"
+</div>
+<div>
+   <img src="./public/assets/3.png"
+</div>
+<div>
+   <img src="./public/assets/4.png"
+</div>
+
 # Live version
 
 This project is deployed on [Vercel](https://nfts-sega.vercel.app/)
