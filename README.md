@@ -33,18 +33,15 @@ Before interacting with our community, please read our [Code of Conduct](CODE_OF
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/ibrahimraimi/sega-nfts
    ```
-3. Install NPM packages
+1. Install NPM packages
    ```sh
    yarn install
    ```
-4. Enter your Solana API in a `.env` in your root directory
+1. Enter your Solana API in a `.env` in your root directory
    ```js
    REACT_APP_CANDY_MACHINE_ID=token
    REACT_APP_SOLANA_NETWORK=devnet
