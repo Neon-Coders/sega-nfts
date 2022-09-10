@@ -41,7 +41,7 @@ Before interacting with our community, please read our [Code of Conduct](CODE_OF
    ```sh
    yarn install
    ```
-1. Enter your Solana API in a `.env` in your root directory
+1. Enter your Solana API key in a `.env` in your root directory
    ```js
    REACT_APP_CANDY_MACHINE_ID=token
    REACT_APP_SOLANA_NETWORK=devnet
