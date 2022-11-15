@@ -55,16 +55,6 @@ Before interacting with our community, please read our [Code of Conduct](CODE_OF
 
 You can use any Solana wallet to mint the token. E.g: **Phantom**, **Slope**, **Solflare**, **Sollent**, **Solong**, **Ledger**, **Safepal**
 
-## Licensing
-
-Copyright (C) 2022 Ibrahim Raimi
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation.
-
-The GNU Affero General Public License is a free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community, and this program is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY;** without even the implied warranty of **MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE**. See the GNU Affero General Public License for more details.
-
-The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
-
 ## Contact
 
 We can be contacted through our [Discord Server](https://discord.com) or via twitter [@ibrahimraimi\_](https://twitter.com/ibrahimraimi_)
