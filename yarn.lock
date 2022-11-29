@@ -2566,10 +2566,10 @@
     "@wallet-standard/app" "^1.0.0"
     "@wallet-standard/base" "^1.0.0"
 
-"@solana/web3.js@1.63.1":
-  version "1.63.1"
-  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.63.1.tgz#88a19a17f5f4aada73ad70a94044c1067cab2b4d"
-  integrity sha512-wgEdGVK5FTS2zENxbcGSvKpGZ0jDS6BUdGu8Gn6ns0CzgJkK83u4ip3THSnBPEQ5i/jrqukg998BwV1H67+qiQ==
+"@solana/web3.js@1.67.0":
+  version "1.67.0"
+  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.67.0.tgz#bd67742cd9c176889fd1954080173dd7d0c224a2"
+  integrity sha512-t6tfRbYyuoyuik4D4B8eK6hPm//+5l7k+00YppFTGoxcix8b2bpE7iANLmvw+u5iZNMwG3VFV20xRdrqz8zhvQ==
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@noble/ed25519" "^1.7.0"
