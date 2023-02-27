@@ -24,7 +24,7 @@
     "@types/node": "16.11.64",
     "@types/react": "18.0.27",
     "@types/react-dom": "18.0.10",
-    "canvas-confetti": "1.5.1",
+    "canvas-confetti": "1.6.0",
     "prop-types": "15.8.1",
     "react": "17.0.2",
     "react-countdown": "2.3.5",
@@ -62,7 +62,7 @@
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "7.18.6",
     "@babel/plugin-syntax-class-properties": "7.12.13",
-    "@types/canvas-confetti": "1.4.3",
+    "@types/canvas-confetti": "1.6.0",
     "@types/styled-components": "5.1.26"
   }
 }
